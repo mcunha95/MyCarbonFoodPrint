@@ -19,6 +19,8 @@ export default {
 <style>
 #app {
   font-family: 'Pangram', sans-serif !important;
+  margin-top: 0;
+  text-align: center
 }
 .footer {
     position: fixed; 
@@ -28,7 +30,4 @@ export default {
     height: 50px;
     display: inline-block;
 }
-.header {
-    margin-top: 0px; /* up to 60px does nothing*/
-    }
 </style>

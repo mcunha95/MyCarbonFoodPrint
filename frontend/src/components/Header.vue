@@ -16,7 +16,4 @@
 .navbar-brand {
     font-size: 24px;
 }
-#bg-light {
-    background-color: lightgreen;
-}
 </style>
